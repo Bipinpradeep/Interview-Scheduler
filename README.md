@@ -31,8 +31,8 @@ Admins can oversee the system, while candidates and interviewers can register an
 ### Steps to Set Up
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Bipinpradeep/Interview-Scheduler.git
+   cd interview_scheduler
    ```
 
 2. **Create a Virtual Environment:**
